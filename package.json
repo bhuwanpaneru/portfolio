@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "prot",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -17,13 +17,17 @@
     "@angular/forms": "~12.2.0",
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
+    "@angular/platform-server": "^13.3.0",
     "@angular/router": "~12.2.0",
+    "@nguniversal/express-engine": "^13.1.0",
+    "express": "^4.17.3",
+    "ngx-pagination": "^5.1.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^13.3.0",
+    "@angular-devkit/build-angular": "~12.2.11",
     "@angular/cli": "~12.2.11",
     "@angular/compiler-cli": "~12.2.0",
     "@types/jasmine": "~3.8.0",

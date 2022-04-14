@@ -21,6 +21,7 @@
     "@angular/router": "~12.2.0",
     "@nguniversal/express-engine": "^13.1.0",
     "express": "^4.17.3",
+    "firebase": "^9.6.10",
     "ngx-pagination": "^5.1.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
